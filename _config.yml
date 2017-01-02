@@ -1,0 +1,9 @@
+name: Kris Bellemans
+url: http://technomatic.be
+description: A compsci blog
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
