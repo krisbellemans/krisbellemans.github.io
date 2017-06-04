@@ -1,6 +1,6 @@
-name: Kris Bellemans
+name: Technomatic
 url: http://technomatic.be
-description: A compsci blog
+description: A compsci blog by Kris Bellemans
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
